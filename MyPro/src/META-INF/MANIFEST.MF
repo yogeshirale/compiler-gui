@@ -1,6 +1,0 @@
-Manifest-Version: 1.0
-Ant-Version: Apache Ant 1.8.2
-Created-By: 1.7.0_09-b05 (Oracle Corporation)
-SplashScreen-Image: net/java/vll/vll4j/gui/resources/SplashImage.png
-Main-Class: net.java.vll.vll4j.gui.Vll4jGui
-

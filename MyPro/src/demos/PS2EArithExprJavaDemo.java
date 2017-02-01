@@ -5,10 +5,10 @@
 /*    */ import java.io.PrintStream;
 /*    */ import java.util.List;
 /*    */ import javax.xml.parsers.ParserConfigurationException;
-/*    */ import net.java.vll.vll4j.api.Vll4j;
-import net.java.vll.vll4j.combinator.Parsers;
-/*    */ import net.java.vll.vll4j.combinator.Parsers.ParseResult;
-/*    */ import net.java.vll.vll4j.combinator.Parsers.Parser;
+/*    */ import net.api.Vll4j;
+				 import net.combinator.Parsers;
+/*    */ import net.combinator.Parsers.ParseResult;
+/*    */ import net.combinator.Parsers.Parser;
 /*    */ import org.xml.sax.SAXException;
 /*    */ 
 /*    */ 

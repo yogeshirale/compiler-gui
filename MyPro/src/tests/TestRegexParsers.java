@@ -2,9 +2,9 @@
 /*    */ 
 /*    */ import java.util.regex.Pattern;
 
-import net.java.vll.vll4j.combinator.Parsers;
-/*    */ import net.java.vll.vll4j.combinator.Parsers.Parser;
-/*    */ import net.java.vll.vll4j.combinator.RegexParsers;
+				 import net.combinator.Parsers;
+/*    */ import net.combinator.Parsers.Parser;
+/*    */ import net.combinator.RegexParsers;
 /*    */ 
 /*    */ 
 /*    */ 
