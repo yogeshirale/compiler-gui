@@ -273,6 +273,7 @@ public class Vll4jGui extends JFrame
   private String titleString;
   public final String version = "11.03";
   private ListCellRenderer theCellRenderer = new RendererRuleComboBox(this);
+<<<<<<< HEAD
 }
 
 
@@ -281,3 +282,6 @@ public class Vll4jGui extends JFrame
 
 
 */
+=======
+}
+>>>>>>> 1d4b3316c85e01a1ebb01bd4c9a4b485eef45314
